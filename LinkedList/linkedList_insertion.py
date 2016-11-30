@@ -1,6 +1,6 @@
 #!/usr/bin/env python  -- This makes it possible to run the file as a script invoking the interpreter implicitly
 
-""" Introduction to Linked List """
+""" Insertion into Linked List from front, end and at a specific position"""
 
 
 __author__ = "Sidhartha A. Dash"
